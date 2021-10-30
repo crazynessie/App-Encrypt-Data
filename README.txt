@@ -2,14 +2,6 @@ EN
 
 Hi, so to use the app :
 
-To use the program you will need the 2 libraries "hashlib" and "sha256".
-
-To install them open a terminal and run the command : 
-pip install hashlib
-pip install sha256
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________
-
 To encrypt :
 
 step 1 : put the file you want to encrypt in the folder.
@@ -31,14 +23,6 @@ ________________________________________________________________________________
 FR
 
 Salut donc pour utiliser l'app :
-
-Pour pouvoir utiliser le programme vous aurez besoin du 2 librairies "hashlib" et "sha256".
-
-Pour les installer ouvrir un terminal et executer la commande : 
-pip install hashlib
-pip install sha256
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________
 
 Pour chiffrer :
 
